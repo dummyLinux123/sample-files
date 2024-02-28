@@ -1,0 +1,11 @@
+
+.first-component {
+  color: blue;
+}
+
+
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
